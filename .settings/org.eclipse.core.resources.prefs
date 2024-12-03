@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+encoding//src/com/bike/controller/BikeServlet.java=MS949
+>>>>>>> practice/JSP_Bike
 encoding/<project>=UTF-8

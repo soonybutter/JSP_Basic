@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>Servers</name>
 =======
 	<name>Jsp09_Ajax</name>
 >>>>>>> practice/JSP_Ajax
+=======
+	<name>Jsp10_Bike</name>
+>>>>>>> practice/JSP_Bike
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
 =======
+=======
+>>>>>>> practice/JSP_Bike
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -35,6 +42,9 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Ajax
+=======
+>>>>>>> practice/JSP_Bike
 	</natures>
 </projectDescription>
