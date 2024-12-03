@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>Servers</name>
 =======
 	<name>Jsp09_Ajax</name>
@@ -17,10 +18,14 @@
 =======
 	<name>Jsp06_EL_JSTL</name>
 >>>>>>> practice/JSP_EL_JSTL
+=======
+	<name>Jsp05_Scope</name>
+>>>>>>> practice/JSP_Scope
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34,6 +39,8 @@
 >>>>>>> practice/JSP_AnswerBoard
 =======
 >>>>>>> practice/JSP_EL_JSTL
+=======
+>>>>>>> practice/JSP_Scope
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -59,6 +66,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Ajax
 =======
 >>>>>>> practice/JSP_Bike
@@ -66,5 +74,7 @@
 >>>>>>> practice/JSP_AnswerBoard
 =======
 >>>>>>> practice/JSP_EL_JSTL
+=======
+>>>>>>> practice/JSP_Scope
 	</natures>
 </projectDescription>

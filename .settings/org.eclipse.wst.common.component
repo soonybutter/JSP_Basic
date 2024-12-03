@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp09_Ajax">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
@@ -28,5 +29,12 @@
         <property name="context-root" value="Jsp06_EL_JSTL"/>
         <property name="java-output-path" value="/Jsp06_EL_JSTL/build/classes"/>
 >>>>>>> practice/JSP_EL_JSTL
+=======
+    <wb-module deploy-name="Jsp05_Scope">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/Jsp05_Scope/build/classes"/>
+        <property name="context-root" value="/"/>
+>>>>>>> practice/JSP_Scope
     </wb-module>
 </project-modules>
