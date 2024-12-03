@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp09_Ajax">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
@@ -20,5 +21,12 @@
         <property name="context-root" value="Jsp08_AnswerBoard"/>
         <property name="java-output-path" value="/Jsp08_AnswerBoard/build/classes"/>
 >>>>>>> practice/JSP_AnswerBoard
+=======
+    <wb-module deploy-name="Jsp06_EL_JSTL">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Jsp06_EL_JSTL"/>
+        <property name="java-output-path" value="/Jsp06_EL_JSTL/build/classes"/>
+>>>>>>> practice/JSP_EL_JSTL
     </wb-module>
 </project-modules>
