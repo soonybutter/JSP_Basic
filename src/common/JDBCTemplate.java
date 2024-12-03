@@ -15,6 +15,7 @@ public class JDBCTemplate {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			System.out.println("01. driver Connect!");
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver Connect fail..");
@@ -33,6 +34,11 @@ public class JDBCTemplate {
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver 연결 실패");
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+			System.out.println("01. driver 연결");
+		} catch (ClassNotFoundException e) {
+			System.out.println("01. driver 연결 실패");
+>>>>>>> practice/JSP_MVC
 			e.printStackTrace();
 		}
 		
@@ -43,6 +49,7 @@ public class JDBCTemplate {
 		
 		try {
 			con = DriverManager.getConnection(url,id,pw);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -68,6 +75,11 @@ public class JDBCTemplate {
 		}catch(SQLException e) {
 			System.out.println("02. 계정 연결 실패");
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+			System.out.println("02. 계정 연결");
+		}catch(SQLException e) {
+			System.out.println("02. 계정 연결 실패");
+>>>>>>> practice/JSP_MVC
 			e.printStackTrace();
 		}
 		return con;
@@ -100,6 +112,7 @@ public class JDBCTemplate {
 	}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	public static void commit(Connection con) {
 		
@@ -124,6 +137,8 @@ public class JDBCTemplate {
 >>>>>>> practice/JSP_LoginBoard
 =======
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 
 	
 	

@@ -1,15 +1,21 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 <% request.setCharacterEncoding("UTF-8"); %>
 <% response.setContentType("text/html; charset=UTF-8"); %>    
 =======
+=======
+>>>>>>> practice/JSP_MVC
 
 <% request.setCharacterEncoding("UTF-8"); %> 
 <% response.setContentType("text/html; charset=UTF-8"); %>
 <%@ page import="com.mvc.dto.MVCBoardDto" %>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,6 +23,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <h1>작성글 보기</h1>
 <table>
@@ -55,6 +62,8 @@
 	
 
 =======
+=======
+>>>>>>> practice/JSP_MVC
 <%
 	MVCBoardDto dto = (MVCBoardDto)request.getAttribute("dto");
 %>
@@ -92,6 +101,9 @@
 		</td>
 	</tr>
 </table>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 </body>
 </html>

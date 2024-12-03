@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>Servers</name>
 =======
 	<name>Jsp09_Ajax</name>
@@ -33,10 +34,14 @@
 =======
 	<name>Jsp02_MVC2_MyBatis</name>
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+	<name>Jsp02_MVC</name>
+>>>>>>> practice/JSP_MVC
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -62,6 +67,8 @@
 >>>>>>> practice/JSP_LoginBoard
 =======
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -91,6 +98,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Ajax
 =======
 >>>>>>> practice/JSP_Bike
@@ -106,5 +114,7 @@
 >>>>>>> practice/JSP_LoginBoard
 =======
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 	</natures>
 </projectDescription>

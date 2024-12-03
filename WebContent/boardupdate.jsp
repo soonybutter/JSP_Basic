@@ -1,19 +1,26 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <% request.setCharacterEncoding("UTF-8"); %>
 <% response.setContentType("text/html; charset=UTF-8"); %>       
 =======
+=======
+>>>>>>> practice/JSP_MVC
     
 <% request.setCharacterEncoding("UTF-8"); %> 
 <% response.setContentType("text/html; charset=UTF-8"); %>
 <%@ page import="com.mvc.dto.MVCBoardDto" %>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="EUC-KR">
 <title>Insert title here</title>
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 </head>
@@ -46,6 +53,8 @@
 	</table>
 </form>
 =======
+=======
+>>>>>>> practice/JSP_MVC
 </head>
 <body>
 <%
@@ -88,6 +97,9 @@
 
 </form>
 
+<<<<<<< HEAD
 >>>>>>> practice/JSP_MVC_Mybatis
+=======
+>>>>>>> practice/JSP_MVC
 </body>
 </html>

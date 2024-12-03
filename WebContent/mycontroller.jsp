@@ -130,6 +130,7 @@
 		
 		
 	}
+<<<<<<< HEAD
 	else if(command.equals("muldel")){
 		//name = chk 인 parameter을 받자
 		String[] seq = request.getParameterValues("chk");
@@ -149,6 +150,8 @@
 		pageContext.forward("result.jsp");
 		
 	}
+=======
+>>>>>>> practice/JSP_MVC
 	
 %>
 
