@@ -2,6 +2,7 @@
     pageEncoding="EUC-KR"%>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 <% request.setCharacterEncoding("UTF-8"); %>
 <% response.setContentType("text/html; charset=UTF-8"); %>
@@ -15,10 +16,16 @@
 <% response.setContentType("text/html; charset=UTF-8"); %>
     
 >>>>>>> practice/JSP_LoginBoard
+=======
+    
+<% request.setCharacterEncoding("UTF-8"); %>    
+<% response.setContentType("text/html; charset=UTF-8"); %>    
+>>>>>>> practice/JSP_Myboard_Mybatis
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="EUC-KR">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <title>Insert title here</title>
 </head>
@@ -91,5 +98,13 @@ appId : <%=application.getAttribute("appId") %> <br>
 
 >>>>>>> practice/JSP_LoginBoard
 
+=======
+<title>Insert title here</title>
+</head>
+<body>
+
+<!-- forward 액션태그 : 다른 페이지로 이동 (순수 html에는 x) -->
+<jsp:forward page="./mylist.jsp"></jsp:forward>
+>>>>>>> practice/JSP_Myboard_Mybatis
 </body>
 </html>
