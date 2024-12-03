@@ -1,6 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <% request.setCharacterEncoding("UTF-8"); %>
 <<<<<<< HEAD
 <% response.setContentType("text/html; charset=UTF-8"); %>    
@@ -13,6 +14,10 @@
 <% response.setContentType("text/html; charset=UTF-8"); %>
 
 >>>>>>> practice/JSP_LoginBoard
+=======
+<% request.setCharacterEncoding("UTF-8"); %>
+<% response.setContentType("text/html; charset=UTF-8"); %>    	
+>>>>>>> practice/JSP_MVC_Mybatis
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,6 +25,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <h1>${msg }</h1>
@@ -40,6 +46,15 @@ appId : <%=application.getAttribute("appId") %> <br>
 <h1> <%=msg %></h1>
 <button onclick="location.href='<%=url%>'">확인</button>
 >>>>>>> practice/JSP_LoginBoard
+=======
+<%
+	String msg = (String)request.getAttribute("msg");// String 값으로 가져옴으로 형변환
+	String url = (String)request.getAttribute("url");
+%>
+<h1><%=msg %></h1>
+<button onclick="location.href='<%=url%>'">확인</button>
+
+>>>>>>> practice/JSP_MVC_Mybatis
 
 </body>
 </html>

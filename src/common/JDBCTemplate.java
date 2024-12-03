@@ -14,6 +14,7 @@ public class JDBCTemplate {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			System.out.println("01. driver Connect!");
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver Connect fail..");
@@ -27,6 +28,11 @@ public class JDBCTemplate {
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver 연결 실패");
 >>>>>>> practice/JSP_LoginBoard
+=======
+			System.out.println("01. driver 연결");
+		} catch (ClassNotFoundException e) {
+			System.out.println("01. driver 연결 실패");
+>>>>>>> practice/JSP_MVC_Mybatis
 			e.printStackTrace();
 		}
 		
@@ -37,6 +43,7 @@ public class JDBCTemplate {
 		
 		try {
 			con = DriverManager.getConnection(url,id,pw);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			System.out.println("02. account Connect!");
@@ -56,6 +63,11 @@ public class JDBCTemplate {
 		}catch(SQLException e) {
 			System.out.println("02. 계정 연결 실패");
 >>>>>>> practice/JSP_LoginBoard
+=======
+			System.out.println("02. 계정 연결");
+		}catch(SQLException e) {
+			System.out.println("02. 계정 연결 실패");
+>>>>>>> practice/JSP_MVC_Mybatis
 			e.printStackTrace();
 		}
 		return con;
@@ -87,6 +99,7 @@ public class JDBCTemplate {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	public static void commit(Connection con) {
 		
@@ -109,6 +122,8 @@ public class JDBCTemplate {
 	}
 =======
 >>>>>>> practice/JSP_LoginBoard
+=======
+>>>>>>> practice/JSP_MVC_Mybatis
 
 	
 	
