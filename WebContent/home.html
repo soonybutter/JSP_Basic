@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2><a href="HelloServlet.do?command=helloGet">hello</a></h2> <!-- web.xml에서 선언(매핑)해준 변수 이름, url패턴으로 위치 요청 -->
+	<br>
+	<form action="HelloServlet.do" method="post">
+		<input type="hidden" name="command" value="helloPost">
+		<input type="submit" value="post">
+	</form>
+	
+
+</body>
+</html>

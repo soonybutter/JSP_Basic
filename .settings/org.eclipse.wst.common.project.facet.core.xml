@@ -2,6 +2,7 @@
 <faceted-project>
   <runtime name="Apache Tomcat v9.0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <fixed facet="java"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,6 +21,11 @@
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="java"/>
 >>>>>>> practice/JSP_Scope
+=======
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="java"/>
+>>>>>>> practice/JSP_HelloServlet
   <installed facet="java" version="11"/>
   <installed facet="jst.web" version="4.0"/>
   <installed facet="wst.jsdt.web" version="1.0"/>

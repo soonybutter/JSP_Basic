@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp09_Ajax">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
@@ -36,5 +37,12 @@
         <property name="java-output-path" value="/Jsp05_Scope/build/classes"/>
         <property name="context-root" value="/"/>
 >>>>>>> practice/JSP_Scope
+=======
+    <wb-module deploy-name="Jsp04_HelloServlet">
+        <wb-resource deploy-path="/" source-path="/webContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Jsp04_HelloServlet"/>
+        <property name="java-output-path" value="/Jsp04_HelloServlet/build/classes"/>
+>>>>>>> practice/JSP_HelloServlet
     </wb-module>
 </project-modules>
