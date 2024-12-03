@@ -2,6 +2,7 @@
 <projectDescription>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>Servers</name>
 =======
 	<name>Jsp09_Ajax</name>
@@ -9,10 +10,14 @@
 =======
 	<name>Jsp10_Bike</name>
 >>>>>>> practice/JSP_Bike
+=======
+	<name>Jsp08_AnswerBoard</name>
+>>>>>>> practice/JSP_AnswerBoard
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 	</buildSpec>
@@ -20,6 +25,8 @@
 =======
 =======
 >>>>>>> practice/JSP_Bike
+=======
+>>>>>>> practice/JSP_AnswerBoard
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -43,8 +50,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Ajax
 =======
 >>>>>>> practice/JSP_Bike
+=======
+>>>>>>> practice/JSP_AnswerBoard
 	</natures>
 </projectDescription>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp09_Ajax">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
@@ -12,5 +13,12 @@
         <property name="context-root" value="Jsp10_Bike"/>
         <property name="java-output-path" value="/Jsp10_Bike/build/classes"/>
 >>>>>>> practice/JSP_Bike
+=======
+    <wb-module deploy-name="Jsp08_AnswerBoard">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Jsp08_AnswerBoard"/>
+        <property name="java-output-path" value="/Jsp08_AnswerBoard/build/classes"/>
+>>>>>>> practice/JSP_AnswerBoard
     </wb-module>
 </project-modules>
