@@ -13,6 +13,7 @@ public class JDBCTemplate {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 <<<<<<< HEAD
+<<<<<<< HEAD
 			System.out.println("01. driver Connect!");
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver Connect fail..");
@@ -21,6 +22,11 @@ public class JDBCTemplate {
 		} catch (ClassNotFoundException e) {
 			System.out.println("01. driver 연결 실패");
 >>>>>>> practice/JSP_AnswerBoard
+=======
+			System.out.println("01. driver 연결");
+		} catch (ClassNotFoundException e) {
+			System.out.println("01. driver 연결 실패");
+>>>>>>> practice/JSP_LoginBoard
 			e.printStackTrace();
 		}
 		
@@ -31,6 +37,7 @@ public class JDBCTemplate {
 		
 		try {
 			con = DriverManager.getConnection(url,id,pw);
+<<<<<<< HEAD
 <<<<<<< HEAD
 			System.out.println("02. account Connect!");
 			
@@ -44,6 +51,11 @@ public class JDBCTemplate {
 		}catch(SQLException e) {
 			System.out.println("02. 계정 연결 실패");
 >>>>>>> practice/JSP_AnswerBoard
+=======
+			System.out.println("02. 계정 연결");
+		}catch(SQLException e) {
+			System.out.println("02. 계정 연결 실패");
+>>>>>>> practice/JSP_LoginBoard
 			e.printStackTrace();
 		}
 		return con;
@@ -74,6 +86,7 @@ public class JDBCTemplate {
 			e.printStackTrace();
 		}
 	}
+<<<<<<< HEAD
 	
 	public static void commit(Connection con) {
 		
@@ -94,6 +107,8 @@ public class JDBCTemplate {
 		}
 		
 	}
+=======
+>>>>>>> practice/JSP_LoginBoard
 
 	
 	

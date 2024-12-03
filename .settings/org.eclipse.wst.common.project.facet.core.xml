@@ -3,6 +3,7 @@
   <runtime name="Apache Tomcat v9.0"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <fixed facet="java"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -26,6 +27,11 @@
   <fixed facet="jst.web"/>
   <fixed facet="java"/>
 >>>>>>> practice/JSP_HelloServlet
+=======
+  <fixed facet="jst.web"/>
+  <fixed facet="java"/>
+  <fixed facet="wst.jsdt.web"/>
+>>>>>>> practice/JSP_LoginBoard
   <installed facet="java" version="11"/>
   <installed facet="jst.web" version="4.0"/>
   <installed facet="wst.jsdt.web" version="1.0"/>

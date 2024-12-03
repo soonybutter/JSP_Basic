@@ -4,6 +4,7 @@ eclipse.preferences.version=1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 encoding//src/com/bike/controller/BikeServlet.java=MS949
 >>>>>>> practice/JSP_Bike
@@ -15,4 +16,6 @@ encoding//src/com/bike/controller/BikeServlet.java=MS949
 >>>>>>> practice/JSP_Scope
 =======
 >>>>>>> practice/JSP_HelloServlet
+=======
+>>>>>>> practice/JSP_LoginBoard
 encoding/<project>=UTF-8
