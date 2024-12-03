@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp09_Ajax">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
@@ -68,11 +69,16 @@
 =======
 >>>>>>> practice/JSP_MVC
 =======
+=======
+>>>>>>> practice/JSP_Myboard
     <wb-module deploy-name="Jsp01_MyBoard">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Jsp01_MyBoard"/>
         <property name="java-output-path" value="/Jsp01_MyBoard/build/classes"/>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Myboard_Mybatis
+=======
+>>>>>>> practice/JSP_Myboard
     </wb-module>
 </project-modules>

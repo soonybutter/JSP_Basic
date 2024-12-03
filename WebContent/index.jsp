@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 <% request.setCharacterEncoding("UTF-8"); %>
 <% response.setContentType("text/html; charset=UTF-8"); %>
@@ -21,10 +22,16 @@
 <% request.setCharacterEncoding("UTF-8"); %>    
 <% response.setContentType("text/html; charset=UTF-8"); %>    
 >>>>>>> practice/JSP_Myboard_Mybatis
+=======
+    
+<% request.setCharacterEncoding("UTF-8"); %>    
+<% response.setContentType("text/html; charset=UTF-8"); %>    
+>>>>>>> practice/JSP_Myboard
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="EUC-KR">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <title>Insert title here</title>
@@ -99,12 +106,17 @@ appId : <%=application.getAttribute("appId") %> <br>
 >>>>>>> practice/JSP_LoginBoard
 
 =======
+=======
+>>>>>>> practice/JSP_Myboard
 <title>Insert title here</title>
 </head>
 <body>
 
 <!-- forward 액션태그 : 다른 페이지로 이동 (순수 html에는 x) -->
 <jsp:forward page="./mylist.jsp"></jsp:forward>
+<<<<<<< HEAD
 >>>>>>> practice/JSP_Myboard_Mybatis
+=======
+>>>>>>> practice/JSP_Myboard
 </body>
 </html>

@@ -2,7 +2,10 @@
     pageEncoding="EUC-KR"%>
 <% request.setCharacterEncoding("UTF-8"); %>    
 <% response.setContentType("text/html; charset=UTF-8"); %>    
+<<<<<<< HEAD
 
+=======
+>>>>>>> practice/JSP_Myboard
 <%@ page import="com.my.model.dao.MyBoardDao" %>  
 <%@ page import="com.my.model.dto.MyBoard" %>  
 <%@ page import="java.util.List" %>  
